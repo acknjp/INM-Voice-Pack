@@ -3,7 +3,7 @@ INM-Voice-Pack for Recursion Real Time Stat Tracker
 
 RTST用 淫夢ボイスパック  
   
-Planetside2公認ツールRTST用の淫夢ボイスパックです  
+Planetside2公認ソフトRTST用の淫夢ボイスパックです  
 DLした.rtst_vpkファイルをtools->options->Audioからぶち込んで使います  
 RTST本体は[公式ページ](https://recursiontracker.com)から落とせる  
 [日本語wikiの解説](http://wiki.ja.planetside-universe.com/ps/Recursion_Stat_Tracker)とかも参考に
