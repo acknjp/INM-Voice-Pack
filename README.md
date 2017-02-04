@@ -10,9 +10,10 @@ RTST本体は[公式ページ](https://recursiontracker.com)から落とせる
 
 語録のリクエスト等はIssuesにどうぞ  
 
-*download* : [v0.0.8](https://drive.google.com/file/d/0B7rnPnz858Q8X3U0dU1pTjkwT00/view?usp=sharing)
+*download* : [v0.0.9](https://drive.google.com/file/d/0B7rnPnz858Q8enc4b014MllwcVk/view?usp=sharing)
 
 *changelog:*  
+v0.0.9 あぁ狂いそう  
 v0.0.8 細かい調整  
 v0.0.7 PER_KILL等の調整  
 v0.0.6 細かい調整  
