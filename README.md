@@ -10,9 +10,10 @@ RTST本体は[公式ページ](https://recursiontracker.com)から落とせる
 
 語録のリクエスト等はIssuesにどうぞ  
 
-*download* : [v0.0.9b](https://drive.google.com/file/d/0B7rnPnz858Q8akdFX0VibFBSM2s/view?usp=sharing)
+*download* : [v0.0.9c](https://drive.google.com/file/d/0B7rnPnz858Q8ajlaNDhzV3FJUFU/view?usp=sharing)
 
 *changelog:*  
+v0.0.9c ウケ中年  
 v0.0.9b ケツ掘りブランコ  
 v0.0.9 あぁ狂いそう  
 v0.0.8 細かい調整  
