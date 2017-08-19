@@ -13,7 +13,7 @@ RTST本体は[公式ページ](https://recursiontracker.com)から落とせる
 *download* : [v0.0.9d](https://drive.google.com/file/d/0B7rnPnz858Q8T3NWY21PcXYxX3c/view?usp=sharing)
 
 *changelog:*  
-v0.0.8d 若干の追加  
+v0.0.9d 若干の追加  
 v0.0.9c ウケ中年  
 v0.0.9b ケツ掘りブランコ  
 v0.0.9 あぁ狂いそう  
